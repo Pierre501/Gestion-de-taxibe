@@ -1,0 +1,36 @@
+.align-center{
+    text-align: center;
+}
+
+.passwords{
+    margin-left: 170px;
+    margin-top: -20px;
+}
+
+.top{
+    margin-top: 20px;
+}
+
+.errors{
+    color: red;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.errors2{
+    color: red;
+    font-size: 12px;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.bus{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.bonjour{
+    margin-left: 800px;
+    /* margin-top: 40px; */
+}
